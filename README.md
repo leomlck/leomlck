@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI and Medical Imaging for Renal Transplantation**
 
-- 📫 How to reach me **leo.milecki@centralesupelec.fr**
+- 📫 How to reach me **leo.milecki** at **centralesupelec** dot **fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
