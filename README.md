@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Léo Milecki</h1>
-<h3 align="center">PhD Student at MICS lab, CentraleSupelec, France</h3>
+<h3 align="center">Postdoctoral researcher at Machine Intelligence in NeuroImaging (MINI) lab, Weill Cornell Medicine</h3>
 
-- 🔭 I’m currently working on **AI and Medical Imaging for Renal Transplantation**
-
-- 📫 How to reach me **leo.milecki** at **centralesupelec** dot **fr**
+- 🔭 I’m currently working on **AI and Neuroimaging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
