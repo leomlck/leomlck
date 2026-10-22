@@ -38,7 +38,7 @@ Developed a transformer-based framework with network-aware bilinear tokenization
 
 Studied associations between resting-state functional connectivity, behavior, cognition, and psychiatric symptoms across large developmental neuroimaging cohorts.
 
-- *Sex-Specific Associations Between Functional Brain Connectivity and Psychopathology* — Translational Psychiatry, 2025. [Paper](https://doi.org/10.1038/s41398-025-03678-9)
+- *Sex-Specific Associations Between Functional Brain Connectivity and Psychopathology* — Translational Psychiatry, 2025. [Paper](https://doi.org/10.1038/s41398-025-03678-9) · [Code](https://github.com/leomlck/rCCA_ABCD_rsfMRI_CBCL)
 - *Socioemotional and Executive Control Mismatch in Adolescence and Risks for Initiating Drinking* — JAMA Network Open, 2025. [Paper](https://doi.org/10.1001/jamanetworkopen.2025.31378)
 - *Heterogeneous Brain Functional Mapping of Childhood Psychiatric Symptoms* — Society for Neuroscience, 2024. [Abstract](https://www.abstractsonline.com/pp8/#!/20433/presentation/30189) · Selected for Neuroscience Press Conference (top 0.5% of 10,500 abstracts).
 
