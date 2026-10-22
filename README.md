@@ -18,11 +18,13 @@ I'm interested in developing ML methods that go beyond task-specific predictions
 
 ### Postdoctoral Research | Weill Cornell Medicine (2024–present)
 
-**Continuous representations of brain function** *(2026–present)*
+**Continuous representations of brain function** *(Present)*
 
 Exploring implicit neural representations to model fMRI signals and functional connectivity continuously, beyond fixed spatial parcellations and discrete descriptions of brain dynamics.
 
-[comment]: <> [Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+**Longitudinal modeling of multimorbidity trajectories** *(Present)*
+
+Developed transformer-based models of longitudinal electronic health records to forecast comorbidities and investigate patient subtypes and trajectories across substance use, mental health, and chronic physical conditions using All of Us Research Data.
 
 **Self-supervised representation learning for functional connectivity** *(MICCAI 2026)*
 
@@ -30,28 +32,15 @@ Developed a transformer-based framework with network-aware bilinear tokenization
 
 *Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning.*
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+[Paper](https://arxiv.org/abs/2605.14048) · [Code](https://github.com/leomlck/NERVE)
 
-**Longitudinal modeling of multimorbidity trajectories** *(2025–2026)*
-
-Developed transformer-based models of longitudinal electronic health records to forecast comorbidities and investigate patient subtypes and trajectories across substance use, mental health, and chronic physical conditions.
-
-[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
-
-**Individual differences in brain function and behavior** *(2025)*
+**Individual differences in brain function and behavior** *(2024-Present)*
 
 Studied associations between resting-state functional connectivity, behavior, cognition, and psychiatric symptoms across large developmental neuroimaging cohorts.
 
 - *Sex-Specific Associations Between Functional Brain Connectivity and Psychopathology* — Translational Psychiatry, 2025. [Paper](PAPER_URL)
 - *Socioemotional and Executive Control Mismatch in Adolescence and Risks for Initiating Drinking* — JAMA Network Open, 2025. [Paper](PAPER_URL)
-
-**Brain functional mapping of childhood psychiatric symptoms** *(SfN 2024)*
-
-Investigated heterogeneous associations between functional brain connectivity and psychiatric symptoms in youth.
-
-*Heterogeneous Brain Functional Mapping of Childhood Psychiatric Symptoms* — Society for Neuroscience, 2024.
-
-[Abstract](ABSTRACT_URL) · [Poster](POSTER_URL)
+- *Heterogeneous Brain Functional Mapping of Childhood Psychiatric Symptoms* — Society for Neuroscience, 2024. [Abstract](https://www.abstractsonline.com/pp8/#!/20433/presentation/30189) · Selected for Neuroscience Press Conference (top 0.5% of 10,500 abstracts).
 
 ---
 
@@ -59,19 +48,20 @@ Investigated heterogeneous associations between functional brain connectivity an
 
 My PhD focused on **longitudinal 3D MRI for renal transplantation monitoring**, combining self-supervised representation learning, multimodal modeling, and clinical prediction.
 
+**Radiomics and renal graft survival prediction** *(Academic Radiology, 2025)*
+
+Investigated MRI-derived representations and radiomics for predicting long-term renal graft survival.
+
+[Paper](https://doi.org/10.1016/j.acra.2025.05.001)
+
 **Multimodal MRI representation learning with clinical information** *(MIDL 2024)*
 
 Developed a CLIP-inspired framework using LLM-generated clinical descriptions to align 3D MRI representations with multiple clinical variables and improve renal function forecasting.
 
 *MEDIMP: Medical Images and Clinical Prompts for Multimodal Representation Learning.*
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+[Paper](https://proceedings.mlr.press/v227/milecki24a.html) · [Code](https://github.com/leomlck/MEDIMP)
 
-**Radiomics and renal graft survival prediction** *(Academic Radiology, 2025)*
-
-Investigated MRI-derived representations and radiomics for predicting long-term renal graft survival.
-
-[Paper](PAPER_URL) · [Code](GITHUB_URL)
 
 **Contrastive learning and longitudinal MRI modeling** *(MICCAI 2022)*
 
@@ -79,13 +69,13 @@ Developed clinically guided contrastive pretraining of 3D MRI representations, f
 
 *Contrastive Masked Transformers for Longitudinal 3D Medical Images.*
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+[Paper](https://doi.org/10.1007/978-3-031-16449-1_24) · [Code](https://github.com/leomlck/renal_transplant_imaging)
 
 **Unsupervised kidney segmentation** *(ISBI 2021)*
 
 Developed unsupervised deep learning methods for kidney segmentation in MRI to support downstream longitudinal imaging analyses.
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL)
+[Paper](https://doi.org/10.1109/ISBI48211.2021.9433854)
 
 ---
 
@@ -118,7 +108,7 @@ Developed deep learning methods for spatiotemporal super-resolution ultrasound i
 ## Research Interests
 
 Representation Learning · Self-Supervised Learning · Multimodal Learning ·
-Transformers · Generative Modeling · Longitudinal Modeling ·
+Transformers · Longitudinal Modeling ·
 Neuroimaging · Medical Imaging · AI for Life Sciences
 
 ## Tools
