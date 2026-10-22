@@ -22,7 +22,7 @@ I'm interested in developing ML methods that go beyond task-specific predictions
 
 Exploring implicit neural representations to model fMRI signals and functional connectivity continuously, beyond fixed spatial parcellations and discrete descriptions of brain dynamics.
 
-[comment]:[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+[comment]: <> [Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
 
 **Self-supervised representation learning for functional connectivity** *(MICCAI 2026)*
 
