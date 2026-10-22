@@ -1,6 +1,6 @@
 # Hi, I'm Léo Milecki 👋
 
-I'm a **Postdoctoral Associate at Weill Cornell Medicine**, working with **Mert Sabuncu** and **Qingyu Zhao** in the Machine Intelligence in NeuroImaging (MINI) lab.
+I'm a **Postdoctoral Associate at Weill Cornell Medicine**, working with **Mert Sabuncu** and **Qingyu Zhao** in the Machine Intelligence in NeuroImaging ([MINI](https://mini-cornell.github.io/)) lab.
 
 My research focuses on developing **machine learning methods for biomedical data**, particularly representation learning, self-supervised learning, and multimodal and longitudinal modeling.
 
@@ -22,7 +22,7 @@ I'm interested in developing ML methods that go beyond task-specific predictions
 
 Exploring implicit neural representations to model fMRI signals and functional connectivity continuously, beyond fixed spatial parcellations and discrete descriptions of brain dynamics.
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+[comment]:[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
 
 **Self-supervised representation learning for functional connectivity** *(MICCAI 2026)*
 
