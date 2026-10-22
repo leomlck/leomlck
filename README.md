@@ -16,7 +16,7 @@ I'm interested in developing ML methods that go beyond task-specific predictions
 
 ## Research Projects
 
-### Postdoctoral Research | Weill Cornell Medicine (2024–present)
+### Postdoctoral Research | Weill Cornell Medicine, Cornell Tech (2024–present)
 
 **Continuous representations of brain function** *(Present)*
 
@@ -42,7 +42,7 @@ Studied associations between resting-state functional connectivity, behavior, co
 
 ---
 
-### PhD Research | CentraleSupélec / Université Paris-Saclay (2020–2024)
+### PhD Research | CentraleSupélec, Université Paris-Saclay (2020–2024)
 
 [My PhD](https://theses.hal.science/tel-04702855) focused on **longitudinal 3D MRI for renal transplantation monitoring**, combining self-supervised representation learning, multimodal modeling, and clinical prediction.
 
