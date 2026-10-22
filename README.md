@@ -46,7 +46,7 @@ Studied associations between resting-state functional connectivity, behavior, co
 
 ### PhD Research | CentraleSupélec / Université Paris-Saclay (2020–2024)
 
-My PhD focused on **longitudinal 3D MRI for renal transplantation monitoring**, combining self-supervised representation learning, multimodal modeling, and clinical prediction.
+[My PhD](https://theses.hal.science/tel-04702855) focused on **longitudinal 3D MRI for renal transplantation monitoring**, combining self-supervised representation learning, multimodal modeling, and clinical prediction.
 
 **Radiomics and renal graft survival prediction** *(Academic Radiology, 2025)*
 
