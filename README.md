@@ -9,7 +9,7 @@ I'm interested in developing ML methods that go beyond task-specific predictions
 📍 New York City
 
 [Google Scholar](https://scholar.google.com/citations?user=R8ko8mYAAAAJ) ·
-[LinkedIn](https://www.linkedin.com/in/l%C3%A9o-milecki-0567a515b/) ·
+[LinkedIn](https://www.linkedin.com/in/leo-milecki-0567a515b/) ·
 [X / Twitter](https://twitter.com/leomlck)
 
 ---
