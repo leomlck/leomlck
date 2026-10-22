@@ -30,9 +30,7 @@ Developed transformer-based models of longitudinal electronic health records to 
 
 Developed a transformer-based framework with network-aware bilinear tokenization and masked autoencoding to learn representations of resting-state functional connectivity.
 
-*Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning.*
-
-[Paper](https://arxiv.org/abs/2605.14048) · [Code](https://github.com/leomlck/NERVE)
+*Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning.* [Paper](https://arxiv.org/abs/2605.14048) · [Code](https://github.com/leomlck/NERVE)
 
 **Individual differences in brain function and behavior** *(2024-Present)*
 
@@ -52,30 +50,25 @@ Studied associations between resting-state functional connectivity, behavior, co
 
 Investigated MRI-derived representations and radiomics for predicting long-term renal graft survival.
 
-[Paper](https://doi.org/10.1016/j.acra.2025.05.001)
+*Renal transplant survival prediction from unsupervised deep learning-based radiomics on early dynamic contrast-enhanced MRI.* [Paper](https://doi.org/10.1016/j.acra.2025.05.001)
 
 **Multimodal MRI representation learning with clinical information** *(MIDL 2024)*
 
 Developed a CLIP-inspired framework using LLM-generated clinical descriptions to align 3D MRI representations with multiple clinical variables and improve renal function forecasting.
 
-*MEDIMP: Medical Images and Clinical Prompts for Multimodal Representation Learning.*
-
-[Paper](https://proceedings.mlr.press/v227/milecki24a.html) · [Code](https://github.com/leomlck/MEDIMP)
-
+*MEDIMP: Medical Images and Clinical Prompts for Multimodal Representation Learning.* [Paper](https://proceedings.mlr.press/v227/milecki24a.html) · [Code](https://github.com/leomlck/MEDIMP)
 
 **Contrastive learning and longitudinal MRI modeling** *(MICCAI 2022)*
 
 Developed clinically guided contrastive pretraining of 3D MRI representations, followed by masked transformer modeling to forecast renal function over time.
 
-*Contrastive Masked Transformers for Longitudinal 3D Medical Images.*
-
-[Paper](https://doi.org/10.1007/978-3-031-16449-1_24) · [Code](https://github.com/leomlck/renal_transplant_imaging)
+*Contrastive Masked Transformers for Longitudinal 3D Medical Images.* [Paper](https://doi.org/10.1007/978-3-031-16449-1_24) · [Code](https://github.com/leomlck/renal_transplant_imaging)
 
 **Unsupervised kidney segmentation** *(ISBI 2021)*
 
 Developed unsupervised deep learning methods for kidney segmentation in MRI to support downstream longitudinal imaging analyses.
 
-[Paper](https://doi.org/10.1109/ISBI48211.2021.9433854)
+*3D unsupervised kidney graft segmentation based on deep learning and multi-sequence MRI.* [Paper](https://doi.org/10.1109/ISBI48211.2021.9433854)
 
 ---
 
