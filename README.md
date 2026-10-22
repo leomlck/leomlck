@@ -38,8 +38,8 @@ Developed a transformer-based framework with network-aware bilinear tokenization
 
 Studied associations between resting-state functional connectivity, behavior, cognition, and psychiatric symptoms across large developmental neuroimaging cohorts.
 
-- *Sex-Specific Associations Between Functional Brain Connectivity and Psychopathology* — Translational Psychiatry, 2025. [Paper](PAPER_URL)
-- *Socioemotional and Executive Control Mismatch in Adolescence and Risks for Initiating Drinking* — JAMA Network Open, 2025. [Paper](PAPER_URL)
+- *Sex-Specific Associations Between Functional Brain Connectivity and Psychopathology* — Translational Psychiatry, 2025. [Paper](https://doi.org/10.1038/s41398-025-03678-9)
+- *Socioemotional and Executive Control Mismatch in Adolescence and Risks for Initiating Drinking* — JAMA Network Open, 2025. [Paper](https://doi.org/10.1001/jamanetworkopen.2025.31378)
 - *Heterogeneous Brain Functional Mapping of Childhood Psychiatric Symptoms* — Society for Neuroscience, 2024. [Abstract](https://www.abstractsonline.com/pp8/#!/20433/presentation/30189) · Selected for Neuroscience Press Conference (top 0.5% of 10,500 abstracts).
 
 ---
@@ -85,13 +85,13 @@ Developed unsupervised deep learning methods for kidney segmentation in MRI to s
 
 Developed deep learning pipelines for medical image segmentation, including model training, inference optimization, and containerized deployment.
 
-[Challenge](CHALLENGE_URL) · [Code](GITHUB_URL)
+[Paper](https://arxiv.org/abs/2609.20562) · [Challenge](https://www.synapse.org/Synapse:syn72118611/wiki/637239)
 
 **BraTS Challenge** *(MICCAI 2024)*
 
-Contributed to brain tumor segmentation using artificial MRI sequence generation and ensemble learning.
+Contributed to brain tumor segmentation using artificial MRI sequence generation and ensemble learning (Rank 2 on BraTS 2024 Task 1: Segmentation – Adult Glioma Post-Treatment.)
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL)
+[Paper](https://arxiv.org/pdf/2409.08143) · [Challenge](https://www.synapse.org/Synapse:syn53708249/wiki/630150)
 
 ---
 
@@ -101,7 +101,7 @@ Contributed to brain tumor segmentation using artificial MRI sequence generation
 
 Developed deep learning methods for spatiotemporal super-resolution ultrasound imaging to improve visualization of microvascular structures.
 
-[Paper](PAPER_URL) · [Code](GITHUB_URL) · [Project Page](PROJECT_URL)
+[Paper](https://doi.org/10.1109/TMI.2021.3056951)
 
 ---
 
