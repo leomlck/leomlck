@@ -83,7 +83,7 @@ Developed unsupervised deep learning methods for kidney segmentation in MRI to s
 
 **LISA Challenge** *(MICCAI 2026)*
 
-Developed deep learning pipelines for medical image segmentation, including model training, inference optimization, and containerized deployment.
+Developed a unified deep learning framework for ultra-low-field pediatric brain MRI, combining image enhancement, subcortical structure segmentation, and artifact quality assessment using a multi-task 3D U-Net architecture.
 
 [Paper](https://arxiv.org/abs/2609.20562) · [Challenge](https://www.synapse.org/Synapse:syn72118611/wiki/637239)
 
